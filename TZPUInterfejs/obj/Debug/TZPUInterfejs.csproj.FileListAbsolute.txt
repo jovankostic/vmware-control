@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\TZPUInterfejs.exe.config
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\TZPUInterfejs.exe
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\TZPUInterfejs.pdb
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.Form1.resources
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.Properties.Resources.resources
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.exe
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.pdb
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\Renci.SshNet.dll
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\Renci.SshNet.xml
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.csproj.CopyComplete
+C:\Users\acer\source\repos\TZPUInterfejs\TZPUInterfejs\obj\Debug\TZPUInterfejs.IPForm.resources
